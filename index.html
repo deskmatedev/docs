@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DeskMate User Manual</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="description" content="YumeDesktop User Manual">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+</head>
+<body>
+  <div id="app">Loading Docs...</div>
+  <script>
+    // Set html "lang" attribute based on URL
+    const lang = location.hash.match(/#\/(zh-cn)\//);
+
+    if (lang) {
+      document.documentElement.setAttribute('lang', lang[1]);
+    }
+    window.$docsify = {
+      name: 'DeskMate',
+      routerMode: 'history',
+      nameLink: {
+        '/zh-cn/': '/zh-cn/',
+        '/': '/',
+      },
+      repo: '',
+      loadSidebar: true,
+      loadNavbar: true,
+      subMaxLevel: 2,
+      search: {
+        noData: {
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!',
+        },
+        paths: 'auto',
+        depth: 6,
+        placeholder: {
+          '/zh-cn/': '搜索',
+          '/': 'Search',
+        },
+        pathNamespaces: ['/zh-cn'],
+      }
+    }
+  </script>
+  <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+</body>
+</html>
