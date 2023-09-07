@@ -25,7 +25,7 @@
 
 - 崩溃
 
-    - [我的桌妹崩溃了！](zh-cn/my-yumedesktop-crashed.md)
+    - [我的桌妹崩溃了！](zh-cn/my-deskmate-crashed.md)
 
 - 性能
 

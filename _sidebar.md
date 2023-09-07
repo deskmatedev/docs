@@ -25,7 +25,7 @@
 
 - Crashes
 
-    - [My Yumedesktop crashed!](my-yumedesktop-crashed.md)
+    - [My DeskMate crashed!](my-deskmate-crashed.md)
 
 - Performance
 
