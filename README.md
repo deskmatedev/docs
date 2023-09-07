@@ -1,8 +1,8 @@
-# DeskMate User Manual and FAQs
+# deskmate User Manual and FAQs
 
-Welcome to DeskMate! We hope DeskMate can assist you in your work and life and bring you joy!
+Welcome to deskmate! We hope deskmate can assist you in your work and life and bring you joy!
 
-If you encounter any problems while using DeskMate, or if you're unsure how to interact with it, you can find answers here. We will continuously update this document in hopes of addressing the majority of issues we gather.
+If you encounter any problems while using deskmate, or if you're unsure how to interact with it, you can find answers here. We will continuously update this document in hopes of addressing the majority of issues we gather.
 
 You can use the search bar in the top left corner, or directly view the article list on the left that we've grouped based on certain logic. Please check if your issue is covered.
 
