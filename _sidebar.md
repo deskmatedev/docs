@@ -1,37 +1,36 @@
-- Getting started
+* Getting started
 
-    - [Quick start](quickstart.md)
-    - [Features](features.md)
+    * [Quick start](quickstart.md)
+    * [Features](features.md)
 
-- Window
+* Window
 
-    - [Window Mode](window-mode.md)
-    - [Lite Mode](lite-mode.md)
-    - [DeskPet Mode](desk-pet-mode.md)
+    * [Window Mode](window*mode.md)
+    * [Lite Mode](lite*mode.md)
 
-- Network Connection
+* Network Connection
 
-    - [Why network connection is necessary?](why-network-connection-is-necessary.md)
+    * [Why network connection is necessary?](why*network*connection*is*necessary.md)
 
-- Voice and Language
+* Voice and Language
 
-    - [Experience different voice engines](experience-different-voice-engines.md)
-    - [What language model should I use?](what-language-model-should-i-use.md)
+    * [Experience different voice engines](experience*different*voice*engines.md)
+    * [What language model should I use?](what*language*model*should*i*use.md)
 
-- Members and Pricing Plans
+* Members and Pricing Plans
 
-    - [Should I pay for the memberships?](should-i-pay-for-the-memberships.md)
-    - [Pricing plan details](pricing-plan-details.md)
+    * [Should I pay for the memberships?](should*i*pay*for*the*memberships.md)
+    * [Pricing plan details](pricing*plan*details.md)
 
-- Crashes
+* Crashes
 
-    - [My DeskMate crashed!](my-deskmate-crashed.md)
+    * [My DeskMate crashed!](my*deskmate*crashed.md)
 
-- Performance
+* Performance
 
-    - [How many resources did my yume take?](how-many-resources-did-my-yume-take.md)
+    * [How many resources did my yume take?](how*many*resources*did*my*yume*take.md)
 
-- Contact Us
+* Contact Us
 
-    - [QQ Groups](qq-groups.md)
-    - [Email](email.md)
+    * [QQ Groups](qq*groups.md)
+    * [Email](email.md)
