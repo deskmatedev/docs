@@ -3,9 +3,9 @@
     * [快速开始](zh-cn/quickstart.md)
     * [功能简介](zh-cn/features.md)
 
-* 视窗
+* 显示模式
 
-    * [窗口模式](zh-cn/window-mode.md)
+    * [完整模式](zh-cn/full-mode.md)
     * [简易模式](zh-cn/lite-mode.md)
 
 * 网络连接

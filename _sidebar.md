@@ -1,11 +1,11 @@
-* Getting started
+* Getting Started
 
     * [Quick start](quickstart.md)
     * [Features](features.md)
 
-* Window
+* Render Mode
 
-    * [Window Mode](window-mode.md)
+    * [Full Mode](full-mode.md)
     * [Lite Mode](lite-mode.md)
 
 * Network Connection
