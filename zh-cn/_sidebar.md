@@ -15,7 +15,7 @@
 * 语音和语言
 
     * [体验不同的语音引擎](zh-cn/experience-different-voice-engines.md)
-    * [我应该使用哪个语言模型？](zh-cn/what-language-model-should-i-use.md)
+    * [我应该使用哪个语言模型？](zh-cn/which-language-model-should-i-use.md)
 
 * 会员和价格
 
