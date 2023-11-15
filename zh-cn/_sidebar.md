@@ -5,7 +5,7 @@
 
 * 显示模式
 
-    * [完整模式](zh-cn/full-mode.md)
+    * [生动模式](zh-cn/vivid-mode.md)
     * [简易模式](zh-cn/lite-mode.md)
 
 * 网络连接

@@ -5,7 +5,7 @@
 
 * Render Mode
 
-    * [Full Mode](full-mode.md)
+    * [Vivid Mode](vivid-mode.md)
     * [Lite Mode](lite-mode.md)
 
 * Network Connection

@@ -1,3 +1,3 @@
 # QQ Group
 
-Our QQ Group is 123456789
+Our QQ Group(for zh-CN) is 316711207
